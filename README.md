@@ -8,4 +8,5 @@
 6. To run the server, use the command 'python manage.py runserver' (NOTE: if you have more than one python version downloaded ensure it is the most recent, you may have to change the command the read 'python3 manage.py runserver' to use the most recent)
 7. Go to http://localhost:8000/polls/ in your browser and you should see the opening polls application page.
 8. If you wish to access the admin site, go to http://localhost:8000/admin/ and login with the credentials given in the A3 submission. 
+
 If you have any questions or access issues please do not hesitate to contact me. 
